@@ -21,8 +21,6 @@ export default {
             path: 'search',
             component: () =>
                 import ('../../components/Search')
-        },
-
-
+        }
     ]
 }
